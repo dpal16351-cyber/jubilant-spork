@@ -1,4 +1,4 @@
- ![logo](https://github.com/dpal16351-cyber/jubilant-spork/blob/main/Your%20paragraph%20text.png)# jubilant-spork
+ ![logo](https://github.com/dpal16351-cyber/jubilant-spork/blob/main/Your%20paragraph%20text.png)
 cyber" /><<h1 align="center">Hi 👋, I'm DIPANSHU PAL</h1>
 <h3 align="center">A passionate AI and ML from India</h3>
 <img align="right"alt="coding"width="400"src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2t0ZjN0OGxzZ2NueXZvcm5oNzJ6ZnVjaDZqY3N5b2xxZ2RlaXp3ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pIMlKqgdZgvo4/giphy.gif">
